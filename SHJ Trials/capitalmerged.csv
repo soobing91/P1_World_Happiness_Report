@@ -1,0 +1,157 @@
+Country,Ladder,Capital City
+Finland,1,Helsinki
+Denmark,2,Copenhagen
+Norway,3,Oslo
+Iceland,4,Reykjavik
+Netherlands,5,Amsterdam
+Switzerland,6,Bern
+Sweden,7,Stockholm
+New Zealand,8,Wellington
+Canada,9,Ottawa
+Austria,10,Vienna
+Australia,11,Canberra
+Costa Rica,12,San Jose
+Israel,13,Tel Aviv 
+Luxembourg,14,Luxembourg
+United Kingdom,15,London
+Ireland,16,Dublin
+Germany,17,Berlin
+Belgium,18,Brussels
+United States,19,Washington D.C.
+Czech Republic,20,Prague
+United Arab Emirates,21,Abu Dhabi
+Malta,22,Valletta
+Mexico,23,Mexico City
+France,24,Paris
+Taiwan,25,Taipei
+Chile,26,Santiago
+Guatemala,27,Guatemala City
+Saudi Arabia,28,Riyadh
+Qatar,29,Doha
+Spain,30,Madrid
+Panama,31,Panama City
+Brazil,32,Brasilia
+Uruguay,33,Montevideo
+Singapore,34,Singapore
+El Salvador,35,San Salvador
+Italy,36,Rome
+Bahrain,37,Manama
+Slovakia,38,Bratislava
+Trinidad and Tobago,39,Port of Spain
+Poland,40,Warsaw
+Uzbekistan,41,Tashkent
+Lithuania,42,Vilnius
+Colombia,43,Bogota
+Slovenia,44,Ljubljana
+Nicaragua,45,Managua
+Kosovo,46,Pristina
+Argentina,47,Buenos Aires
+Romania,48,Bucharest
+Cyprus,49,Nicosia
+Ecuador,50,Quito
+Kuwait,51,Kuwait City
+Thailand,52,Bangkok
+Latvia,53,Riga
+South Korea,54,Seoul
+Estonia,55,Tallinn
+Jamaica,56,Kingston
+Mauritius,57,Port Louis
+Japan,58,Tokyo
+Honduras,59,Tegucigalpa
+Kazakhstan,60,Astana
+Bolivia,61,La Paz
+Hungary,62,Budapest
+Paraguay,63,Asuncion
+Northern Cyprus,64,
+Peru,65,Lima
+Portugal,66,Lisbon
+Pakistan,67,Islamabad
+Russia,68,Moscow
+Philippines,69,Manila
+Serbia,70,Belgrade
+Moldova,71,Chisinau
+Libya,72,Tripoli
+Montenegro,73,Podgorica
+Tajikistan,74,Dushanbe
+Croatia,75,Zagreb
+Hong Kong,76,
+Dominican Republic,77,Santo Domingo
+Bosnia and Herzegovina ,78,
+Turkey,79,Ankara
+Malaysia,80,Kuala Lumpur
+Belarus,81,Minsk
+Greece,82,Athens
+Mongolia,83,Ulaanbaatar
+Macedonia,84,Skopje
+Nigeria,85,Abuja
+Kyrgyzstan,86,Bishkek
+Turkmenistan,87,Ashgabat
+Algeria,88,Algiers
+Morocco,89,Rabat
+Azerbaijan,90,Baku
+Lebanon,91,Beirut
+Indonesia,92,Jakarta
+China,93,Beijing
+Vietnam,94,Hanoi
+Bhutan,95,Thimphu
+Cameroon,96,Yaounde
+Bulgaria,97,Sofia
+Ghana,98,Accra
+Ivory Coast,99,
+Nepal,100,Kathmandu
+Jordan,101,Amman
+Benin,102,Porto Novo
+Congo (Brazzaville),103,
+Gabon,104,Libreville
+Laos,105,Vientiane
+South Africa,106,"Pretoria, Bloemfontein, Cape Town3"
+Albania,107,Tirana 
+Venezuela,108,Caracas
+Cambodia,109,Phnom Penh
+Palestinian Territories,110,
+Senegal,111,Dakar
+Somalia,112,Mogadishu
+Namibia,113,Windhoek
+Niger,114,Niamey
+Burkina Faso,115,Ouagadougou
+Armenia,116,Yerevan
+Iran,117,Tehran
+Guinea,118,Conakry
+Georgia,119,Tbilisi
+Gambia,120,Banjul
+Kenya,121,Nairobi
+Mauritania,122,Nouakchott
+Mozambique,123,Maputo
+Tunisia,124,Tunis
+Bangladesh,125,Dhaka
+Iraq,126,Baghdad
+Congo (Kinshasa),127,
+Mali,128,Bamako
+Sierra Leone,129,Freetown
+Sri Lanka,130,Colombo
+Myanmar,131,
+Chad,132,N'Djamena
+Ukraine,133,Kiev
+Ethiopia,134,Addis Ababa
+Swaziland,135,Mbabana
+Uganda,136,Kampala
+Egypt,137,Cairo
+Zambia,138,Lusaka
+Togo,139,Lome
+India,140,New Delhi
+Liberia,141,Monrovia
+Comoros,142,Moroni
+Madagascar,143,Antananarivo
+Lesotho,144,Maseru
+Burundi,145,Bujumbura
+Zimbabwe,146,Harare
+Haiti,147,Port au Prince
+Botswana,148,Gaborone
+Syria,149,Damascus
+Malawi,150,Lilongwe
+Yemen,151,Sanaa
+Rwanda,152,Kigali
+Tanzania,153,Dodoma4
+Afghanistan,154,Kabul
+Central African Republic,155,Bangui
+South Sudan,156,Juba
