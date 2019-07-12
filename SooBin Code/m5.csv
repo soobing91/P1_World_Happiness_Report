@@ -1,0 +1,165 @@
+,Country,Rank 2015,Rank 2016,Rank 2017,Rank 2018,Rank 2019,Region
+0,Switzerland,1.0,2.0,4.0,5.0,6.0,Western Europe
+1,Iceland,2.0,3.0,3.0,4.0,4.0,Western Europe
+2,Denmark,3.0,1.0,2.0,3.0,2.0,Western Europe
+3,Norway,4.0,4.0,1.0,2.0,3.0,Western Europe
+4,Canada,5.0,6.0,7.0,7.0,9.0,North America
+5,Finland,6.0,5.0,5.0,1.0,1.0,Western Europe
+6,Netherlands,7.0,7.0,6.0,6.0,5.0,Western Europe
+7,Sweden,8.0,10.0,9.0,9.0,7.0,Western Europe
+8,New Zealand,9.0,8.0,8.0,8.0,8.0,Australia and New Zealand
+9,Australia,10.0,9.0,10.0,10.0,11.0,Australia and New Zealand
+10,Israel,11.0,11.0,11.0,11.0,13.0,Middle East and Northern Africa
+11,Costa Rica,12.0,14.0,12.0,13.0,12.0,Latin America and Caribbean
+12,Austria,13.0,12.0,13.0,12.0,10.0,Western Europe
+13,Mexico,14.0,21.0,25.0,24.0,23.0,Latin America and Caribbean
+14,United States,15.0,13.0,14.0,18.0,19.0,North America
+15,Brazil,16.0,17.0,22.0,28.0,32.0,Latin America and Caribbean
+16,Luxembourg,17.0,20.0,18.0,17.0,14.0,Western Europe
+17,Ireland,18.0,19.0,15.0,14.0,16.0,Western Europe
+18,Belgium,19.0,18.0,17.0,16.0,18.0,Western Europe
+19,United Arab Emirates,20.0,28.0,21.0,20.0,21.0,Middle East and Northern Africa
+20,United Kingdom,21.0,23.0,19.0,19.0,15.0,Western Europe
+21,Oman,22.0,,,,,Middle East and Northern Africa
+22,Venezuela,23.0,44.0,82.0,102.0,108.0,Latin America and Caribbean
+23,Singapore,24.0,22.0,26.0,34.0,34.0,Southeastern Asia
+24,Panama,25.0,25.0,30.0,27.0,31.0,Latin America and Caribbean
+25,Germany,26.0,16.0,16.0,15.0,17.0,Western Europe
+26,Chile,27.0,24.0,20.0,25.0,26.0,Latin America and Caribbean
+27,Qatar,28.0,36.0,35.0,32.0,29.0,Middle East and Northern Africa
+28,France,29.0,32.0,31.0,23.0,24.0,Western Europe
+29,Argentina,30.0,26.0,24.0,29.0,47.0,Latin America and Caribbean
+30,Czech Republic,31.0,27.0,23.0,21.0,20.0,Central and Eastern Europe
+31,Uruguay,32.0,29.0,28.0,31.0,33.0,Latin America and Caribbean
+32,Colombia,33.0,31.0,36.0,37.0,43.0,Latin America and Caribbean
+33,Thailand,34.0,33.0,32.0,46.0,52.0,Southeastern Asia
+34,Saudi Arabia,35.0,34.0,37.0,33.0,28.0,Middle East and Northern Africa
+35,Spain,36.0,37.0,34.0,36.0,30.0,Western Europe
+36,Malta,37.0,30.0,27.0,22.0,22.0,Western Europe
+37,Taiwan,38.0,34.0,33.0,26.0,25.0,Eastern Asia
+38,Kuwait,39.0,41.0,39.0,45.0,51.0,Middle East and Northern Africa
+39,Suriname,40.0,40.0,,,,Latin America and Caribbean
+40,Trinidad and Tobago,41.0,43.0,38.0,38.0,39.0,Latin America and Caribbean
+41,El Salvador,42.0,46.0,45.0,40.0,35.0,Latin America and Caribbean
+42,Guatemala,43.0,39.0,29.0,30.0,27.0,Latin America and Caribbean
+43,Uzbekistan,44.0,49.0,47.0,44.0,41.0,Central and Eastern Europe
+44,Slovakia,45.0,45.0,40.0,39.0,38.0,Central and Eastern Europe
+45,Japan,46.0,53.0,51.0,54.0,58.0,Eastern Asia
+46,South Korea,47.0,57.0,55.0,57.0,54.0,Eastern Asia
+47,Ecuador,48.0,51.0,44.0,48.0,50.0,Latin America and Caribbean
+48,Bahrain,49.0,42.0,41.0,43.0,37.0,Middle East and Northern Africa
+49,Italy,50.0,50.0,48.0,47.0,36.0,Western Europe
+50,Bolivia,51.0,59.0,58.0,62.0,61.0,Latin America and Caribbean
+51,Moldova,52.0,55.0,56.0,67.0,71.0,Central and Eastern Europe
+52,Paraguay,53.0,70.0,70.0,64.0,63.0,Latin America and Caribbean
+53,Kazakhstan,54.0,54.0,60.0,60.0,60.0,Central and Eastern Europe
+54,Slovenia,55.0,63.0,62.0,51.0,44.0,Central and Eastern Europe
+55,Lithuania,56.0,60.0,52.0,50.0,42.0,Central and Eastern Europe
+56,Nicaragua,57.0,48.0,43.0,41.0,45.0,Latin America and Caribbean
+57,Peru,58.0,64.0,63.0,65.0,65.0,Latin America and Caribbean
+58,Belarus,59.0,61.0,67.0,73.0,81.0,Central and Eastern Europe
+59,Poland,60.0,57.0,46.0,42.0,40.0,Central and Eastern Europe
+60,Malaysia,61.0,47.0,42.0,35.0,80.0,Southeastern Asia
+61,Croatia,62.0,74.0,77.0,82.0,75.0,Central and Eastern Europe
+62,Libya,63.0,67.0,68.0,70.0,72.0,Middle East and Northern Africa
+63,Russia,64.0,56.0,49.0,59.0,68.0,Central and Eastern Europe
+64,Jamaica,65.0,73.0,76.0,56.0,56.0,Latin America and Caribbean
+65,Northern Cyprus,66.0,62.0,61.0,58.0,64.0,Western Europe
+66,Cyprus,67.0,69.0,65.0,61.0,49.0,Western Europe
+67,Algeria,68.0,38.0,53.0,84.0,88.0,Middle East and Northern Africa
+68,Kosovo,69.0,77.0,78.0,66.0,46.0,Central and Eastern Europe
+69,Turkmenistan,70.0,65.0,59.0,68.0,87.0,Central and Eastern Europe
+70,Mauritius,71.0,66.0,64.0,55.0,57.0,Sub-Saharan Africa
+71,Hong Kong,72.0,75.0,71.0,76.0,76.0,Eastern Asia
+72,Estonia,73.0,72.0,66.0,63.0,55.0,Central and Eastern Europe
+73,Indonesia,74.0,79.0,81.0,96.0,92.0,Southeastern Asia
+74,Vietnam,75.0,96.0,94.0,95.0,94.0,Southeastern Asia
+75,Turkey,76.0,78.0,69.0,74.0,79.0,Middle East and Northern Africa
+76,Kyrgyzstan,77.0,85.0,98.0,92.0,86.0,Central and Eastern Europe
+77,Nigeria,78.0,103.0,95.0,91.0,85.0,Sub-Saharan Africa
+78,Bhutan,79.0,84.0,97.0,97.0,95.0,Southern Asia
+79,Azerbaijan,80.0,81.0,85.0,87.0,90.0,Central and Eastern Europe
+80,Pakistan,81.0,92.0,80.0,75.0,67.0,Southern Asia
+81,Jordan,82.0,80.0,74.0,90.0,101.0,Middle East and Northern Africa
+82,Montenegro,82.0,88.0,83.0,81.0,73.0,Central and Eastern Europe
+83,China,84.0,83.0,79.0,86.0,93.0,Eastern Asia
+84,Zambia,85.0,106.0,116.0,125.0,138.0,Sub-Saharan Africa
+85,Romania,86.0,71.0,57.0,52.0,48.0,Central and Eastern Europe
+86,Serbia,87.0,86.0,73.0,78.0,70.0,Central and Eastern Europe
+87,Portugal,88.0,94.0,89.0,77.0,66.0,Western Europe
+88,Latvia,89.0,68.0,54.0,53.0,53.0,Central and Eastern Europe
+89,Philippines,90.0,82.0,72.0,71.0,69.0,Southeastern Asia
+90,Somaliland Region,91.0,97.0,,,,Sub-Saharan Africa
+91,Morocco,92.0,90.0,84.0,85.0,89.0,Middle East and Northern Africa
+92,Macedonia,93.0,95.0,92.0,89.0,84.0,Central and Eastern Europe
+93,Mozambique,94.0,,113.0,123.0,123.0,Sub-Saharan Africa
+94,Albania,95.0,109.0,109.0,112.0,107.0,Central and Eastern Europe
+95,Bosnia and Herzegovina,96.0,87.0,90.0,93.0,78.0,Central and Eastern Europe
+96,Lesotho,97.0,,139.0,141.0,144.0,Sub-Saharan Africa
+97,Dominican Republic,98.0,89.0,86.0,83.0,77.0,Latin America and Caribbean
+98,Laos,99.0,102.0,,110.0,105.0,Southeastern Asia
+99,Mongolia,100.0,101.0,100.0,94.0,83.0,Eastern Asia
+100,Swaziland,101.0,,,,135.0,Sub-Saharan Africa
+101,Greece,102.0,99.0,87.0,79.0,82.0,Western Europe
+102,Lebanon,103.0,93.0,88.0,88.0,91.0,Middle East and Northern Africa
+103,Hungary,104.0,91.0,75.0,69.0,62.0,Central and Eastern Europe
+104,Honduras,105.0,104.0,91.0,72.0,59.0,Latin America and Caribbean
+105,Tajikistan,106.0,100.0,96.0,80.0,74.0,Central and Eastern Europe
+106,Tunisia,107.0,98.0,102.0,111.0,124.0,Middle East and Northern Africa
+107,Palestinian Territories,108.0,108.0,103.0,104.0,110.0,Middle East and Northern Africa
+108,Bangladesh,109.0,110.0,110.0,115.0,125.0,Southern Asia
+109,Iran,110.0,105.0,108.0,106.0,117.0,Middle East and Northern Africa
+110,Ukraine,111.0,123.0,132.0,138.0,133.0,Central and Eastern Europe
+111,Iraq,112.0,112.0,117.0,117.0,126.0,Middle East and Northern Africa
+112,South Africa,113.0,116.0,101.0,105.0,106.0,Sub-Saharan Africa
+113,Ghana,114.0,124.0,131.0,108.0,98.0,Sub-Saharan Africa
+114,Zimbabwe,115.0,131.0,138.0,144.0,146.0,Sub-Saharan Africa
+115,Liberia,116.0,150.0,148.0,149.0,141.0,Sub-Saharan Africa
+116,India,117.0,118.0,122.0,133.0,140.0,Southern Asia
+117,Sudan,118.0,133.0,130.0,137.0,,Sub-Saharan Africa
+118,Haiti,119.0,136.0,145.0,148.0,147.0,Latin America and Caribbean
+119,Congo (Kinshasa),120.0,125.0,126.0,132.0,127.0,Sub-Saharan Africa
+120,Nepal,121.0,107.0,99.0,101.0,100.0,Southern Asia
+121,Ethiopia,122.0,115.0,119.0,127.0,134.0,Sub-Saharan Africa
+122,Sierra Leone,123.0,111.0,106.0,113.0,129.0,Sub-Saharan Africa
+123,Mauritania,124.0,130.0,123.0,126.0,122.0,Sub-Saharan Africa
+124,Kenya,125.0,122.0,112.0,124.0,121.0,Sub-Saharan Africa
+125,Djibouti,126.0,,,,,Sub-Saharan Africa
+126,Armenia,127.0,121.0,121.0,129.0,116.0,Central and Eastern Europe
+127,Botswana,128.0,137.0,142.0,146.0,148.0,Sub-Saharan Africa
+128,Myanmar,129.0,119.0,114.0,130.0,131.0,Southeastern Asia
+129,Georgia,130.0,126.0,125.0,128.0,119.0,Central and Eastern Europe
+130,Malawi,131.0,132.0,136.0,147.0,150.0,Sub-Saharan Africa
+131,Sri Lanka,132.0,117.0,120.0,116.0,130.0,Southern Asia
+132,Cameroon,133.0,114.0,107.0,99.0,96.0,Sub-Saharan Africa
+133,Bulgaria,134.0,129.0,105.0,100.0,97.0,Central and Eastern Europe
+134,Egypt,135.0,120.0,104.0,122.0,137.0,Middle East and Northern Africa
+135,Yemen,136.0,147.0,146.0,152.0,151.0,Middle East and Northern Africa
+136,Angola,137.0,141.0,140.0,142.0,,Sub-Saharan Africa
+137,Mali,138.0,135.0,127.0,118.0,128.0,Sub-Saharan Africa
+138,Congo (Brazzaville),139.0,127.0,124.0,114.0,103.0,Sub-Saharan Africa
+139,Comoros,140.0,138.0,,,142.0,Sub-Saharan Africa
+140,Uganda,141.0,145.0,133.0,135.0,136.0,Sub-Saharan Africa
+141,Senegal,142.0,128.0,115.0,109.0,111.0,Sub-Saharan Africa
+142,Gabon,143.0,134.0,118.0,103.0,104.0,Sub-Saharan Africa
+143,Niger,144.0,142.0,135.0,134.0,114.0,Sub-Saharan Africa
+144,Cambodia,145.0,140.0,129.0,120.0,109.0,Southeastern Asia
+145,Tanzania,146.0,149.0,153.0,153.0,153.0,Sub-Saharan Africa
+146,Madagascar,147.0,148.0,144.0,143.0,143.0,Sub-Saharan Africa
+147,Central African Republic,148.0,,155.0,155.0,155.0,Sub-Saharan Africa
+148,Chad,149.0,144.0,137.0,131.0,132.0,Sub-Saharan Africa
+149,Guinea,150.0,151.0,149.0,140.0,118.0,Sub-Saharan Africa
+150,Ivory Coast,151.0,139.0,128.0,107.0,99.0,Sub-Saharan Africa
+151,Burkina Faso,152.0,145.0,134.0,121.0,115.0,Sub-Saharan Africa
+152,Afghanistan,153.0,154.0,141.0,145.0,154.0,Southern Asia
+153,Rwanda,154.0,152.0,151.0,151.0,152.0,Sub-Saharan Africa
+154,Benin,155.0,153.0,143.0,136.0,102.0,Sub-Saharan Africa
+155,Syria,156.0,156.0,152.0,150.0,149.0,Middle East and Northern Africa
+156,Burundi,157.0,157.0,154.0,156.0,145.0,Sub-Saharan Africa
+157,Togo,158.0,155.0,150.0,139.0,139.0,Sub-Saharan Africa
+158,Puerto Rico,,15.0,,,,Latin America and Caribbean
+159,Belize,,52.0,50.0,49.0,,Latin America and Caribbean
+160,Somalia,,76.0,93.0,98.0,112.0,Sub-Saharan Africa
+161,Namibia,,113.0,111.0,119.0,113.0,Sub-Saharan Africa
+162,South Sudan,,143.0,147.0,154.0,156.0,Sub-Saharan Africa
+163,Gambia,,,,,120.0,Middle East and Northern Africa
