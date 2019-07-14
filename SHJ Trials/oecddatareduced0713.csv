@@ -1,0 +1,911 @@
+Country,Indicator,Value
+Australia,Labour market insecurity,5.4
+Austria,Labour market insecurity,3.5
+Belgium,Labour market insecurity,3.7
+Canada,Labour market insecurity,6.0
+Czech Republic,Labour market insecurity,3.1
+Denmark,Labour market insecurity,4.2
+Finland,Labour market insecurity,3.9
+France,Labour market insecurity,7.6
+Germany,Labour market insecurity,2.7
+Greece,Labour market insecurity,29.8
+Hungary,Labour market insecurity,4.7
+Iceland,Labour market insecurity,0.7
+Ireland,Labour market insecurity,7.8
+Italy,Labour market insecurity,12.3
+Japan,Labour market insecurity,1.4
+Korea,Labour market insecurity,2.6
+Luxembourg,Labour market insecurity,1.7
+Mexico,Labour market insecurity,5.5
+Netherlands,Labour market insecurity,4.8
+New Zealand,Labour market insecurity,4.7
+Poland,Labour market insecurity,5.7
+Portugal,Labour market insecurity,10.0
+Slovak Republic,Labour market insecurity,9.9
+Spain,Labour market insecurity,23.1
+Sweden,Labour market insecurity,3.2
+Turkey,Labour market insecurity,12.5
+United Kingdom,Labour market insecurity,4.5
+United States,Labour market insecurity,7.7
+Chile,Labour market insecurity,8.7
+Estonia,Labour market insecurity,3.8
+Israel,Labour market insecurity,4.2
+Latvia,Labour market insecurity,9.6
+Slovenia,Labour market insecurity,5.8
+OECD - Total,Labour market insecurity,7.0
+Australia,Stakeholder engagement for developing regulations,2.7
+Austria,Stakeholder engagement for developing regulations,1.3
+Belgium,Stakeholder engagement for developing regulations,2.0
+Canada,Stakeholder engagement for developing regulations,2.9
+Czech Republic,Stakeholder engagement for developing regulations,1.6
+Denmark,Stakeholder engagement for developing regulations,2.0
+Finland,Stakeholder engagement for developing regulations,2.2
+France,Stakeholder engagement for developing regulations,2.1
+Germany,Stakeholder engagement for developing regulations,1.8
+Greece,Stakeholder engagement for developing regulations,1.8
+Hungary,Stakeholder engagement for developing regulations,1.2
+Iceland,Stakeholder engagement for developing regulations,2.1
+Ireland,Stakeholder engagement for developing regulations,1.3
+Italy,Stakeholder engagement for developing regulations,2.5
+Japan,Stakeholder engagement for developing regulations,1.4
+Korea,Stakeholder engagement for developing regulations,2.9
+Luxembourg,Stakeholder engagement for developing regulations,1.7
+Mexico,Stakeholder engagement for developing regulations,3.2
+Netherlands,Stakeholder engagement for developing regulations,2.6
+New Zealand,Stakeholder engagement for developing regulations,2.5
+Norway,Stakeholder engagement for developing regulations,2.2
+Poland,Stakeholder engagement for developing regulations,2.6
+Portugal,Stakeholder engagement for developing regulations,1.5
+Slovak Republic,Stakeholder engagement for developing regulations,3.0
+Spain,Stakeholder engagement for developing regulations,1.8
+Sweden,Stakeholder engagement for developing regulations,2.0
+Switzerland,Stakeholder engagement for developing regulations,2.3
+Turkey,Stakeholder engagement for developing regulations,1.5
+United Kingdom,Stakeholder engagement for developing regulations,3.1
+United States,Stakeholder engagement for developing regulations,3.1
+Brazil,Stakeholder engagement for developing regulations,2.2
+Chile,Stakeholder engagement for developing regulations,1.3
+Estonia,Stakeholder engagement for developing regulations,2.7
+Israel,Stakeholder engagement for developing regulations,2.5
+Latvia,Stakeholder engagement for developing regulations,2.2
+Slovenia,Stakeholder engagement for developing regulations,2.5
+OECD - Total,Stakeholder engagement for developing regulations,2.4
+Austria,Dwellings without basic facilities,0.9
+Belgium,Dwellings without basic facilities,1.9
+Canada,Dwellings without basic facilities,0.2
+Czech Republic,Dwellings without basic facilities,0.7
+Denmark,Dwellings without basic facilities,0.5
+Finland,Dwellings without basic facilities,0.5
+France,Dwellings without basic facilities,0.5
+Germany,Dwellings without basic facilities,0.2
+Greece,Dwellings without basic facilities,0.5
+Hungary,Dwellings without basic facilities,4.7
+Iceland,Dwellings without basic facilities,0.0
+Ireland,Dwellings without basic facilities,1.0
+Italy,Dwellings without basic facilities,0.7
+Japan,Dwellings without basic facilities,6.4
+Korea,Dwellings without basic facilities,2.5
+Luxembourg,Dwellings without basic facilities,0.5
+Mexico,Dwellings without basic facilities,25.5
+Netherlands,Dwellings without basic facilities,0.1
+Norway,Dwellings without basic facilities,0.0
+Poland,Dwellings without basic facilities,3.0
+Portugal,Dwellings without basic facilities,1.0
+Slovak Republic,Dwellings without basic facilities,1.2
+Spain,Dwellings without basic facilities,0.1
+Sweden,Dwellings without basic facilities,0.0
+Switzerland,Dwellings without basic facilities,0.1
+Turkey,Dwellings without basic facilities,8.0
+United Kingdom,Dwellings without basic facilities,0.3
+United States,Dwellings without basic facilities,0.1
+Brazil,Dwellings without basic facilities,6.7
+Chile,Dwellings without basic facilities,9.4
+Estonia,Dwellings without basic facilities,7.0
+Latvia,Dwellings without basic facilities,13.9
+Russia,Dwellings without basic facilities,14.8
+Slovenia,Dwellings without basic facilities,0.4
+South Africa,Dwellings without basic facilities,37.0
+OECD - Total,Dwellings without basic facilities,4.4
+Australia,Housing expenditure,20.0
+Austria,Housing expenditure,21.0
+Belgium,Housing expenditure,21.0
+Canada,Housing expenditure,22.0
+Czech Republic,Housing expenditure,24.0
+Denmark,Housing expenditure,23.0
+Finland,Housing expenditure,23.0
+France,Housing expenditure,21.0
+Germany,Housing expenditure,20.0
+Greece,Housing expenditure,23.0
+Hungary,Housing expenditure,19.0
+Iceland,Housing expenditure,24.0
+Ireland,Housing expenditure,20.0
+Italy,Housing expenditure,23.0
+Japan,Housing expenditure,22.0
+Korea,Housing expenditure,15.0
+Luxembourg,Housing expenditure,21.0
+Mexico,Housing expenditure,20.0
+Netherlands,Housing expenditure,19.0
+New Zealand,Housing expenditure,26.0
+Norway,Housing expenditure,17.0
+Poland,Housing expenditure,22.0
+Portugal,Housing expenditure,21.0
+Slovak Republic,Housing expenditure,23.0
+Spain,Housing expenditure,21.0
+Sweden,Housing expenditure,19.0
+Switzerland,Housing expenditure,22.0
+Turkey,Housing expenditure,20.0
+United Kingdom,Housing expenditure,26.0
+United States,Housing expenditure,19.0
+Chile,Housing expenditure,18.0
+Estonia,Housing expenditure,17.0
+Latvia,Housing expenditure,23.0
+Russia,Housing expenditure,18.0
+Slovenia,Housing expenditure,18.0
+South Africa,Housing expenditure,18.0
+OECD - Total,Housing expenditure,20.0
+Australia,Feeling safe walking alone at night,63.5
+Austria,Feeling safe walking alone at night,80.6
+Belgium,Feeling safe walking alone at night,70.1
+Canada,Feeling safe walking alone at night,82.2
+Czech Republic,Feeling safe walking alone at night,72.3
+Denmark,Feeling safe walking alone at night,83.5
+Finland,Feeling safe walking alone at night,85.1
+France,Feeling safe walking alone at night,70.5
+Germany,Feeling safe walking alone at night,72.5
+Greece,Feeling safe walking alone at night,60.0
+Hungary,Feeling safe walking alone at night,56.3
+Iceland,Feeling safe walking alone at night,86.0
+Ireland,Feeling safe walking alone at night,75.9
+Italy,Feeling safe walking alone at night,58.4
+Japan,Feeling safe walking alone at night,72.5
+Korea,Feeling safe walking alone at night,66.6
+Luxembourg,Feeling safe walking alone at night,75.8
+Mexico,Feeling safe walking alone at night,41.8
+Netherlands,Feeling safe walking alone at night,82.0
+New Zealand,Feeling safe walking alone at night,65.7
+Norway,Feeling safe walking alone at night,90.1
+Poland,Feeling safe walking alone at night,67.3
+Portugal,Feeling safe walking alone at night,73.4
+Slovak Republic,Feeling safe walking alone at night,63.5
+Spain,Feeling safe walking alone at night,82.1
+Sweden,Feeling safe walking alone at night,75.6
+Switzerland,Feeling safe walking alone at night,85.3
+Turkey,Feeling safe walking alone at night,59.8
+United Kingdom,Feeling safe walking alone at night,77.7
+United States,Feeling safe walking alone at night,73.9
+Brazil,Feeling safe walking alone at night,35.6
+Chile,Feeling safe walking alone at night,47.9
+Estonia,Feeling safe walking alone at night,69.0
+Israel,Feeling safe walking alone at night,69.8
+Latvia,Feeling safe walking alone at night,62.4
+Russia,Feeling safe walking alone at night,52.8
+Slovenia,Feeling safe walking alone at night,86.1
+South Africa,Feeling safe walking alone at night,36.1
+OECD - Total,Feeling safe walking alone at night,68.4
+Austria,Rooms per person,1.6
+Belgium,Rooms per person,2.2
+Canada,Rooms per person,2.6
+Czech Republic,Rooms per person,1.4
+Denmark,Rooms per person,1.9
+Finland,Rooms per person,1.9
+France,Rooms per person,1.8
+Germany,Rooms per person,1.8
+Greece,Rooms per person,1.2
+Hungary,Rooms per person,1.2
+Iceland,Rooms per person,1.6
+Ireland,Rooms per person,2.1
+Italy,Rooms per person,1.4
+Japan,Rooms per person,1.9
+Korea,Rooms per person,1.0
+Luxembourg,Rooms per person,1.9
+Mexico,Rooms per person,1.0
+Netherlands,Rooms per person,1.9
+New Zealand,Rooms per person,2.4
+Norway,Rooms per person,2.1
+Poland,Rooms per person,1.1
+Portugal,Rooms per person,1.7
+Slovak Republic,Rooms per person,1.1
+Spain,Rooms per person,1.9
+Sweden,Rooms per person,1.7
+Switzerland,Rooms per person,1.9
+Turkey,Rooms per person,1.0
+United Kingdom,Rooms per person,1.9
+United States,Rooms per person,2.4
+Chile,Rooms per person,1.2
+Estonia,Rooms per person,1.6
+Israel,Rooms per person,1.2
+Latvia,Rooms per person,1.2
+Russia,Rooms per person,0.9
+Slovenia,Rooms per person,1.5
+OECD - Total,Rooms per person,1.8
+Australia,Household net adjusted disposable income,32759.0
+Austria,Household net adjusted disposable income,33541.0
+Belgium,Household net adjusted disposable income,30364.0
+Canada,Household net adjusted disposable income,30854.0
+Czech Republic,Household net adjusted disposable income,21453.0
+Denmark,Household net adjusted disposable income,29606.0
+Finland,Household net adjusted disposable income,29943.0
+France,Household net adjusted disposable income,31304.0
+Germany,Household net adjusted disposable income,34294.0
+Greece,Household net adjusted disposable income,17700.0
+Ireland,Household net adjusted disposable income,25310.0
+Italy,Household net adjusted disposable income,26588.0
+Japan,Household net adjusted disposable income,29798.0
+Korea,Household net adjusted disposable income,21882.0
+Luxembourg,Household net adjusted disposable income,39264.0
+Netherlands,Household net adjusted disposable income,29333.0
+Norway,Household net adjusted disposable income,35725.0
+Poland,Household net adjusted disposable income,19814.0
+Portugal,Household net adjusted disposable income,21203.0
+Slovak Republic,Household net adjusted disposable income,20474.0
+Spain,Household net adjusted disposable income,23999.0
+Sweden,Household net adjusted disposable income,31287.0
+Switzerland,Household net adjusted disposable income,37466.0
+United Kingdom,Household net adjusted disposable income,28715.0
+United States,Household net adjusted disposable income,45284.0
+Estonia,Household net adjusted disposable income,19697.0
+Latvia,Household net adjusted disposable income,16275.0
+Slovenia,Household net adjusted disposable income,20820.0
+OECD - Total,Household net adjusted disposable income,33604.0
+Australia,Household net wealth,427064.0
+Austria,Household net wealth,308325.0
+Belgium,Household net wealth,386006.0
+Canada,Household net wealth,423849.0
+Denmark,Household net wealth,118637.0
+Finland,Household net wealth,200827.0
+France,Household net wealth,280653.0
+Germany,Household net wealth,259667.0
+Greece,Household net wealth,150134.0
+Hungary,Household net wealth,104458.0
+Ireland,Household net wealth,217130.0
+Italy,Household net wealth,279889.0
+Japan,Household net wealth,305878.0
+Korea,Household net wealth,285980.0
+Luxembourg,Household net wealth,769053.0
+Netherlands,Household net wealth,157824.0
+New Zealand,Household net wealth,388514.0
+Norway,Household net wealth,228936.0
+Poland,Household net wealth,210991.0
+Portugal,Household net wealth,232666.0
+Spain,Household net wealth,373548.0
+United Kingdom,Household net wealth,548392.0
+United States,Household net wealth,632100.0
+Chile,Household net wealth,100967.0
+Estonia,Household net wealth,159373.0
+Latvia,Household net wealth,70160.0
+Slovenia,Household net wealth,203044.0
+OECD - Total,Household net wealth,409880.0
+Australia,Employment rate,73.0
+Austria,Employment rate,72.0
+Belgium,Employment rate,63.0
+Canada,Employment rate,73.0
+Czech Republic,Employment rate,74.0
+Denmark,Employment rate,74.0
+Finland,Employment rate,70.0
+France,Employment rate,65.0
+Germany,Employment rate,75.0
+Greece,Employment rate,53.0
+Hungary,Employment rate,68.0
+Iceland,Employment rate,86.0
+Ireland,Employment rate,67.0
+Italy,Employment rate,58.0
+Japan,Employment rate,75.0
+Korea,Employment rate,67.0
+Luxembourg,Employment rate,66.0
+Mexico,Employment rate,61.0
+Netherlands,Employment rate,76.0
+New Zealand,Employment rate,77.0
+Norway,Employment rate,74.0
+Poland,Employment rate,66.0
+Portugal,Employment rate,68.0
+Slovak Republic,Employment rate,66.0
+Spain,Employment rate,62.0
+Sweden,Employment rate,77.0
+Switzerland,Employment rate,80.0
+Turkey,Employment rate,52.0
+United Kingdom,Employment rate,75.0
+United States,Employment rate,70.0
+Brazil,Employment rate,61.0
+Chile,Employment rate,63.0
+Estonia,Employment rate,74.0
+Israel,Employment rate,69.0
+Latvia,Employment rate,70.0
+Russia,Employment rate,70.0
+Slovenia,Employment rate,69.0
+South Africa,Employment rate,43.0
+OECD - Total,Employment rate,68.0
+Australia,Long-term unemployment rate,1.31
+Austria,Long-term unemployment rate,1.84
+Belgium,Long-term unemployment rate,3.54
+Canada,Long-term unemployment rate,0.77
+Czech Republic,Long-term unemployment rate,1.04
+Denmark,Long-term unemployment rate,1.31
+Finland,Long-term unemployment rate,2.13
+France,Long-term unemployment rate,4.0
+Germany,Long-term unemployment rate,1.57
+Greece,Long-term unemployment rate,15.65
+Hungary,Long-term unemployment rate,1.72
+Iceland,Long-term unemployment rate,0.26
+Ireland,Long-term unemployment rate,3.23
+Italy,Long-term unemployment rate,6.59
+Japan,Long-term unemployment rate,1.03
+Korea,Long-term unemployment rate,0.05
+Luxembourg,Long-term unemployment rate,2.35
+Mexico,Long-term unemployment rate,0.07
+Netherlands,Long-term unemployment rate,1.97
+New Zealand,Long-term unemployment rate,0.74
+Norway,Long-term unemployment rate,0.66
+Poland,Long-term unemployment rate,1.52
+Portugal,Long-term unemployment rate,4.43
+Slovak Republic,Long-term unemployment rate,4.78
+Spain,Long-term unemployment rate,7.66
+Sweden,Long-term unemployment rate,1.12
+Switzerland,Long-term unemployment rate,1.82
+Turkey,Long-term unemployment rate,2.39
+United Kingdom,Long-term unemployment rate,1.13
+United States,Long-term unemployment rate,0.66
+Estonia,Long-term unemployment rate,1.92
+Israel,Long-term unemployment rate,0.49
+Latvia,Long-term unemployment rate,3.35
+Russia,Long-term unemployment rate,1.59
+Slovenia,Long-term unemployment rate,3.17
+South Africa,Long-term unemployment rate,16.46
+OECD - Total,Long-term unemployment rate,1.78
+Australia,Personal earnings,49126.0
+Austria,Personal earnings,50349.0
+Belgium,Personal earnings,49675.0
+Canada,Personal earnings,47622.0
+Czech Republic,Personal earnings,25372.0
+Denmark,Personal earnings,51466.0
+Finland,Personal earnings,42964.0
+France,Personal earnings,43755.0
+Germany,Personal earnings,47585.0
+Greece,Personal earnings,26064.0
+Hungary,Personal earnings,22576.0
+Iceland,Personal earnings,61787.0
+Ireland,Personal earnings,47653.0
+Italy,Personal earnings,36658.0
+Japan,Personal earnings,40863.0
+Korea,Personal earnings,35191.0
+Luxembourg,Personal earnings,63062.0
+Mexico,Personal earnings,15314.0
+Netherlands,Personal earnings,52877.0
+New Zealand,Personal earnings,40043.0
+Norway,Personal earnings,51212.0
+Poland,Personal earnings,27046.0
+Portugal,Personal earnings,25367.0
+Slovak Republic,Personal earnings,24328.0
+Spain,Personal earnings,38507.0
+Sweden,Personal earnings,42393.0
+Switzerland,Personal earnings,62283.0
+United Kingdom,Personal earnings,43732.0
+United States,Personal earnings,60558.0
+Chile,Personal earnings,25879.0
+Estonia,Personal earnings,24336.0
+Israel,Personal earnings,35067.0
+Latvia,Personal earnings,23683.0
+Slovenia,Personal earnings,34933.0
+OECD - Total,Personal earnings,43241.0
+Australia,Quality of support network,95.0
+Austria,Quality of support network,92.0
+Belgium,Quality of support network,91.0
+Canada,Quality of support network,93.0
+Czech Republic,Quality of support network,91.0
+Denmark,Quality of support network,95.0
+Finland,Quality of support network,95.0
+France,Quality of support network,90.0
+Germany,Quality of support network,90.0
+Greece,Quality of support network,80.0
+Hungary,Quality of support network,86.0
+Iceland,Quality of support network,98.0
+Ireland,Quality of support network,95.0
+Italy,Quality of support network,92.0
+Japan,Quality of support network,89.0
+Korea,Quality of support network,78.0
+Luxembourg,Quality of support network,93.0
+Mexico,Quality of support network,81.0
+Netherlands,Quality of support network,91.0
+New Zealand,Quality of support network,96.0
+Norway,Quality of support network,94.0
+Poland,Quality of support network,86.0
+Portugal,Quality of support network,88.0
+Slovak Republic,Quality of support network,91.0
+Spain,Quality of support network,93.0
+Sweden,Quality of support network,91.0
+Switzerland,Quality of support network,93.0
+Turkey,Quality of support network,86.0
+United Kingdom,Quality of support network,94.0
+United States,Quality of support network,91.0
+Brazil,Quality of support network,90.0
+Chile,Quality of support network,85.0
+Estonia,Quality of support network,92.0
+Israel,Quality of support network,88.0
+Latvia,Quality of support network,86.0
+Russia,Quality of support network,89.0
+Slovenia,Quality of support network,92.0
+South Africa,Quality of support network,88.0
+OECD - Total,Quality of support network,89.0
+Australia,Educational attainment,81.0
+Austria,Educational attainment,85.0
+Belgium,Educational attainment,77.0
+Canada,Educational attainment,91.0
+Czech Republic,Educational attainment,94.0
+Denmark,Educational attainment,81.0
+Finland,Educational attainment,88.0
+France,Educational attainment,78.0
+Germany,Educational attainment,87.0
+Greece,Educational attainment,73.0
+Hungary,Educational attainment,84.0
+Iceland,Educational attainment,77.0
+Ireland,Educational attainment,82.0
+Italy,Educational attainment,61.0
+Korea,Educational attainment,88.0
+Luxembourg,Educational attainment,77.0
+Mexico,Educational attainment,38.0
+Netherlands,Educational attainment,78.0
+New Zealand,Educational attainment,79.0
+Norway,Educational attainment,82.0
+Poland,Educational attainment,92.0
+Portugal,Educational attainment,48.0
+Slovak Republic,Educational attainment,91.0
+Spain,Educational attainment,59.0
+Sweden,Educational attainment,83.0
+Switzerland,Educational attainment,88.0
+Turkey,Educational attainment,39.0
+United Kingdom,Educational attainment,81.0
+United States,Educational attainment,91.0
+Brazil,Educational attainment,49.0
+Chile,Educational attainment,65.0
+Estonia,Educational attainment,89.0
+Israel,Educational attainment,87.0
+Latvia,Educational attainment,88.0
+Russia,Educational attainment,94.0
+Slovenia,Educational attainment,88.0
+South Africa,Educational attainment,73.0
+OECD - Total,Educational attainment,78.0
+Australia,Student skills,502.0
+Austria,Student skills,492.0
+Belgium,Student skills,503.0
+Canada,Student skills,523.0
+Czech Republic,Student skills,491.0
+Denmark,Student skills,504.0
+Finland,Student skills,523.0
+France,Student skills,496.0
+Germany,Student skills,508.0
+Greece,Student skills,458.0
+Hungary,Student skills,474.0
+Iceland,Student skills,481.0
+Ireland,Student skills,509.0
+Italy,Student skills,485.0
+Japan,Student skills,529.0
+Korea,Student skills,519.0
+Luxembourg,Student skills,483.0
+Mexico,Student skills,416.0
+Netherlands,Student skills,508.0
+New Zealand,Student skills,506.0
+Norway,Student skills,504.0
+Poland,Student skills,504.0
+Portugal,Student skills,497.0
+Slovak Republic,Student skills,463.0
+Spain,Student skills,491.0
+Sweden,Student skills,496.0
+Switzerland,Student skills,506.0
+Turkey,Student skills,425.0
+United Kingdom,Student skills,500.0
+United States,Student skills,488.0
+Brazil,Student skills,395.0
+Chile,Student skills,443.0
+Estonia,Student skills,524.0
+Israel,Student skills,472.0
+Latvia,Student skills,487.0
+Russia,Student skills,492.0
+Slovenia,Student skills,509.0
+OECD - Total,Student skills,486.0
+Australia,Years in education,21.0
+Austria,Years in education,17.0
+Belgium,Years in education,19.3
+Canada,Years in education,17.3
+Czech Republic,Years in education,17.9
+Denmark,Years in education,19.5
+Finland,Years in education,19.8
+France,Years in education,16.5
+Germany,Years in education,18.1
+Greece,Years in education,19.0
+Hungary,Years in education,16.4
+Iceland,Years in education,19.0
+Ireland,Years in education,18.1
+Italy,Years in education,16.6
+Japan,Years in education,16.4
+Korea,Years in education,17.3
+Luxembourg,Years in education,15.1
+Mexico,Years in education,15.2
+Netherlands,Years in education,18.7
+New Zealand,Years in education,17.7
+Norway,Years in education,18.3
+Poland,Years in education,17.6
+Portugal,Years in education,16.9
+Slovak Republic,Years in education,15.8
+Spain,Years in education,17.9
+Sweden,Years in education,19.3
+Switzerland,Years in education,17.5
+Turkey,Years in education,18.3
+United Kingdom,Years in education,17.5
+United States,Years in education,17.2
+Brazil,Years in education,16.2
+Chile,Years in education,17.5
+Estonia,Years in education,17.7
+Israel,Years in education,15.6
+Latvia,Years in education,18.0
+Russia,Years in education,16.2
+Slovenia,Years in education,18.3
+OECD - Total,Years in education,17.2
+Australia,Air pollution,5.0
+Austria,Air pollution,16.0
+Belgium,Air pollution,15.0
+Canada,Air pollution,7.0
+Czech Republic,Air pollution,20.0
+Denmark,Air pollution,9.0
+Finland,Air pollution,6.0
+France,Air pollution,13.0
+Germany,Air pollution,14.0
+Greece,Air pollution,18.0
+Hungary,Air pollution,19.0
+Iceland,Air pollution,3.0
+Ireland,Air pollution,7.0
+Italy,Air pollution,18.0
+Japan,Air pollution,14.0
+Korea,Air pollution,28.0
+Luxembourg,Air pollution,12.0
+Mexico,Air pollution,16.0
+Netherlands,Air pollution,14.0
+New Zealand,Air pollution,5.0
+Norway,Air pollution,5.0
+Poland,Air pollution,22.0
+Portugal,Air pollution,10.0
+Slovak Republic,Air pollution,21.0
+Spain,Air pollution,11.0
+Sweden,Air pollution,6.0
+Switzerland,Air pollution,15.0
+Turkey,Air pollution,20.0
+United Kingdom,Air pollution,11.0
+United States,Air pollution,10.0
+Brazil,Air pollution,10.0
+Chile,Air pollution,16.0
+Estonia,Air pollution,8.0
+Israel,Air pollution,21.0
+Latvia,Air pollution,11.0
+Russia,Air pollution,15.0
+Slovenia,Air pollution,16.0
+South Africa,Air pollution,22.0
+OECD - Total,Air pollution,14.0
+Australia,Water quality,93.0
+Austria,Water quality,92.0
+Belgium,Water quality,84.0
+Canada,Water quality,91.0
+Czech Republic,Water quality,87.0
+Denmark,Water quality,95.0
+Finland,Water quality,95.0
+France,Water quality,81.0
+Germany,Water quality,91.0
+Greece,Water quality,69.0
+Hungary,Water quality,77.0
+Iceland,Water quality,99.0
+Ireland,Water quality,85.0
+Italy,Water quality,71.0
+Japan,Water quality,87.0
+Korea,Water quality,76.0
+Luxembourg,Water quality,84.0
+Mexico,Water quality,68.0
+Netherlands,Water quality,93.0
+New Zealand,Water quality,89.0
+Norway,Water quality,98.0
+Poland,Water quality,82.0
+Portugal,Water quality,86.0
+Slovak Republic,Water quality,85.0
+Spain,Water quality,72.0
+Sweden,Water quality,96.0
+Switzerland,Water quality,95.0
+Turkey,Water quality,65.0
+United Kingdom,Water quality,84.0
+United States,Water quality,83.0
+Brazil,Water quality,73.0
+Chile,Water quality,71.0
+Estonia,Water quality,84.0
+Israel,Water quality,67.0
+Latvia,Water quality,79.0
+Russia,Water quality,55.0
+Slovenia,Water quality,90.0
+South Africa,Water quality,67.0
+OECD - Total,Water quality,81.0
+Australia,Voter turnout,91.0
+Austria,Voter turnout,80.0
+Belgium,Voter turnout,89.0
+Canada,Voter turnout,68.0
+Czech Republic,Voter turnout,61.0
+Denmark,Voter turnout,86.0
+Finland,Voter turnout,67.0
+France,Voter turnout,75.0
+Germany,Voter turnout,76.0
+Greece,Voter turnout,64.0
+Hungary,Voter turnout,70.0
+Iceland,Voter turnout,79.0
+Ireland,Voter turnout,65.0
+Italy,Voter turnout,73.0
+Japan,Voter turnout,53.0
+Korea,Voter turnout,77.0
+Luxembourg,Voter turnout,91.0
+Mexico,Voter turnout,63.0
+Netherlands,Voter turnout,82.0
+New Zealand,Voter turnout,80.0
+Norway,Voter turnout,78.0
+Poland,Voter turnout,55.0
+Portugal,Voter turnout,56.0
+Slovak Republic,Voter turnout,60.0
+Spain,Voter turnout,70.0
+Sweden,Voter turnout,86.0
+Switzerland,Voter turnout,49.0
+Turkey,Voter turnout,86.0
+United Kingdom,Voter turnout,69.0
+United States,Voter turnout,65.0
+Brazil,Voter turnout,79.0
+Chile,Voter turnout,47.0
+Estonia,Voter turnout,64.0
+Israel,Voter turnout,72.0
+Latvia,Voter turnout,59.0
+Russia,Voter turnout,68.0
+Slovenia,Voter turnout,53.0
+South Africa,Voter turnout,73.0
+OECD - Total,Voter turnout,68.0
+Australia,Life expectancy,82.5
+Austria,Life expectancy,81.7
+Belgium,Life expectancy,81.5
+Canada,Life expectancy,81.9
+Czech Republic,Life expectancy,79.1
+Denmark,Life expectancy,80.9
+Finland,Life expectancy,81.5
+France,Life expectancy,82.4
+Germany,Life expectancy,81.1
+Greece,Life expectancy,81.5
+Hungary,Life expectancy,76.2
+Iceland,Life expectancy,82.3
+Ireland,Life expectancy,81.8
+Italy,Life expectancy,83.3
+Japan,Life expectancy,84.1
+Korea,Life expectancy,82.4
+Luxembourg,Life expectancy,82.8
+Mexico,Life expectancy,75.4
+Netherlands,Life expectancy,81.6
+New Zealand,Life expectancy,81.7
+Norway,Life expectancy,82.5
+Poland,Life expectancy,78.0
+Portugal,Life expectancy,81.2
+Slovak Republic,Life expectancy,77.3
+Spain,Life expectancy,83.4
+Sweden,Life expectancy,82.4
+Switzerland,Life expectancy,83.7
+Turkey,Life expectancy,78.0
+United Kingdom,Life expectancy,81.2
+United States,Life expectancy,78.6
+Brazil,Life expectancy,74.8
+Chile,Life expectancy,79.9
+Estonia,Life expectancy,77.8
+Israel,Life expectancy,82.5
+Latvia,Life expectancy,74.7
+Russia,Life expectancy,71.8
+Slovenia,Life expectancy,81.3
+South Africa,Life expectancy,57.5
+OECD - Total,Life expectancy,80.2
+Australia,Self-reported health,85.0
+Austria,Self-reported health,70.0
+Belgium,Self-reported health,74.0
+Canada,Self-reported health,88.0
+Czech Republic,Self-reported health,60.0
+Denmark,Self-reported health,71.0
+Finland,Self-reported health,70.0
+France,Self-reported health,66.0
+Germany,Self-reported health,65.0
+Greece,Self-reported health,74.0
+Hungary,Self-reported health,60.0
+Iceland,Self-reported health,76.0
+Ireland,Self-reported health,83.0
+Italy,Self-reported health,71.0
+Japan,Self-reported health,36.0
+Korea,Self-reported health,33.0
+Luxembourg,Self-reported health,69.0
+Mexico,Self-reported health,66.0
+Netherlands,Self-reported health,76.0
+New Zealand,Self-reported health,88.0
+Norway,Self-reported health,77.0
+Poland,Self-reported health,58.0
+Portugal,Self-reported health,48.0
+Slovak Republic,Self-reported health,66.0
+Spain,Self-reported health,72.0
+Sweden,Self-reported health,75.0
+Switzerland,Self-reported health,78.0
+Turkey,Self-reported health,69.0
+United Kingdom,Self-reported health,69.0
+United States,Self-reported health,88.0
+Chile,Self-reported health,57.0
+Estonia,Self-reported health,53.0
+Israel,Self-reported health,84.0
+Latvia,Self-reported health,47.0
+Russia,Self-reported health,43.0
+Slovenia,Self-reported health,64.0
+OECD - Total,Self-reported health,69.0
+Australia,Life satisfaction,7.3
+Austria,Life satisfaction,7.1
+Belgium,Life satisfaction,6.9
+Canada,Life satisfaction,7.4
+Czech Republic,Life satisfaction,6.7
+Denmark,Life satisfaction,7.6
+Finland,Life satisfaction,7.6
+France,Life satisfaction,6.5
+Germany,Life satisfaction,7.0
+Greece,Life satisfaction,5.4
+Hungary,Life satisfaction,5.6
+Iceland,Life satisfaction,7.5
+Ireland,Life satisfaction,7.0
+Italy,Life satisfaction,6.0
+Japan,Life satisfaction,5.9
+Korea,Life satisfaction,5.9
+Luxembourg,Life satisfaction,6.9
+Mexico,Life satisfaction,6.5
+Netherlands,Life satisfaction,7.4
+New Zealand,Life satisfaction,7.3
+Norway,Life satisfaction,7.6
+Poland,Life satisfaction,6.1
+Portugal,Life satisfaction,5.4
+Slovak Republic,Life satisfaction,6.2
+Spain,Life satisfaction,6.3
+Sweden,Life satisfaction,7.3
+Switzerland,Life satisfaction,7.5
+Turkey,Life satisfaction,5.5
+United Kingdom,Life satisfaction,6.8
+United States,Life satisfaction,6.9
+Brazil,Life satisfaction,6.4
+Chile,Life satisfaction,6.5
+Estonia,Life satisfaction,5.7
+Israel,Life satisfaction,7.2
+Latvia,Life satisfaction,5.9
+Russia,Life satisfaction,5.8
+Slovenia,Life satisfaction,5.9
+South Africa,Life satisfaction,4.7
+OECD - Total,Life satisfaction,6.5
+Australia,Homicide rate,1.1
+Austria,Homicide rate,0.5
+Belgium,Homicide rate,1.0
+Canada,Homicide rate,1.3
+Czech Republic,Homicide rate,0.5
+Denmark,Homicide rate,0.6
+Finland,Homicide rate,1.3
+France,Homicide rate,0.5
+Germany,Homicide rate,0.5
+Greece,Homicide rate,0.8
+Hungary,Homicide rate,1.0
+Iceland,Homicide rate,0.5
+Ireland,Homicide rate,0.7
+Italy,Homicide rate,0.6
+Japan,Homicide rate,0.2
+Korea,Homicide rate,1.0
+Luxembourg,Homicide rate,0.6
+Mexico,Homicide rate,18.1
+Netherlands,Homicide rate,0.6
+New Zealand,Homicide rate,1.3
+Norway,Homicide rate,0.4
+Poland,Homicide rate,0.7
+Portugal,Homicide rate,1.0
+Slovak Republic,Homicide rate,0.8
+Spain,Homicide rate,0.6
+Sweden,Homicide rate,0.9
+Switzerland,Homicide rate,0.6
+Turkey,Homicide rate,1.4
+United Kingdom,Homicide rate,0.2
+United States,Homicide rate,5.5
+Brazil,Homicide rate,26.7
+Chile,Homicide rate,4.2
+Estonia,Homicide rate,3.1
+Israel,Homicide rate,1.8
+Latvia,Homicide rate,4.8
+Russia,Homicide rate,9.6
+Slovenia,Homicide rate,0.6
+South Africa,Homicide rate,13.7
+OECD - Total,Homicide rate,3.7
+Australia,Employees working very long hours,13.04
+Austria,Employees working very long hours,6.66
+Belgium,Employees working very long hours,4.75
+Canada,Employees working very long hours,3.69
+Czech Republic,Employees working very long hours,5.65
+Denmark,Employees working very long hours,2.34
+Finland,Employees working very long hours,3.81
+France,Employees working very long hours,7.67
+Germany,Employees working very long hours,4.26
+Greece,Employees working very long hours,6.42
+Hungary,Employees working very long hours,3.03
+Iceland,Employees working very long hours,15.06
+Ireland,Employees working very long hours,5.25
+Italy,Employees working very long hours,4.11
+Luxembourg,Employees working very long hours,3.82
+Mexico,Employees working very long hours,28.7
+Netherlands,Employees working very long hours,0.42
+New Zealand,Employees working very long hours,15.11
+Norway,Employees working very long hours,2.93
+Poland,Employees working very long hours,5.95
+Portugal,Employees working very long hours,8.27
+Slovak Republic,Employees working very long hours,4.14
+Spain,Employees working very long hours,4.01
+Sweden,Employees working very long hours,1.07
+Switzerland,Employees working very long hours,0.37
+Turkey,Employees working very long hours,32.64
+United Kingdom,Employees working very long hours,12.15
+United States,Employees working very long hours,11.09
+Brazil,Employees working very long hours,7.13
+Chile,Employees working very long hours,9.72
+Estonia,Employees working very long hours,2.42
+Israel,Employees working very long hours,15.45
+Latvia,Employees working very long hours,1.27
+Russia,Employees working very long hours,0.14
+Slovenia,Employees working very long hours,4.39
+South Africa,Employees working very long hours,18.12
+OECD - Total,Employees working very long hours,11.01
+Australia,Time devoted to leisure and personal care,14.35
+Austria,Time devoted to leisure and personal care,14.55
+Belgium,Time devoted to leisure and personal care,15.7
+Canada,Time devoted to leisure and personal care,14.56
+Denmark,Time devoted to leisure and personal care,15.87
+Finland,Time devoted to leisure and personal care,15.17
+France,Time devoted to leisure and personal care,16.36
+Germany,Time devoted to leisure and personal care,15.62
+Italy,Time devoted to leisure and personal care,16.47
+Korea,Time devoted to leisure and personal care,14.7
+New Zealand,Time devoted to leisure and personal care,14.87
+Norway,Time devoted to leisure and personal care,15.56
+Poland,Time devoted to leisure and personal care,14.42
+Spain,Time devoted to leisure and personal care,15.93
+Sweden,Time devoted to leisure and personal care,15.18
+Turkey,Time devoted to leisure and personal care,14.79
+United Kingdom,Time devoted to leisure and personal care,14.92
+United States,Time devoted to leisure and personal care,14.44
+Estonia,Time devoted to leisure and personal care,14.9
+Latvia,Time devoted to leisure and personal care,13.83
+Slovenia,Time devoted to leisure and personal care,14.75
+South Africa,Time devoted to leisure and personal care,14.92
+OECD - Total,Time devoted to leisure and personal care,14.98
+Colombia,Stakeholder engagement for developing regulations,1.4
+Lithuania,Stakeholder engagement for developing regulations,2.4
+Colombia,Dwellings without basic facilities,23.9
+Lithuania,Dwellings without basic facilities,13.6
+Colombia,Housing expenditure,17.0
+Lithuania,Housing expenditure,19.0
+Colombia,Feeling safe walking alone at night,44.4
+Lithuania,Feeling safe walking alone at night,55.9
+Colombia,Rooms per person,1.2
+Lithuania,Rooms per person,1.5
+Lithuania,Household net adjusted disposable income,21660.0
+Colombia,Employment rate,67.0
+Lithuania,Employment rate,70.0
+Colombia,Long-term unemployment rate,0.79
+Lithuania,Long-term unemployment rate,2.69
+Lithuania,Personal earnings,24287.0
+Colombia,Quality of support network,89.0
+Lithuania,Quality of support network,88.0
+Colombia,Educational attainment,54.0
+Lithuania,Educational attainment,93.0
+Colombia,Student skills,410.0
+Lithuania,Student skills,475.0
+Colombia,Years in education,14.1
+Lithuania,Years in education,18.4
+Colombia,Air pollution,10.0
+Lithuania,Air pollution,14.0
+Colombia,Water quality,75.0
+Lithuania,Water quality,81.0
+Colombia,Voter turnout,53.0
+Lithuania,Voter turnout,51.0
+Colombia,Life expectancy,76.2
+Lithuania,Life expectancy,74.8
+Lithuania,Self-reported health,43.0
+Colombia,Life satisfaction,6.3
+Lithuania,Life satisfaction,5.9
+Colombia,Homicide rate,24.5
+Lithuania,Homicide rate,3.4
+Colombia,Employees working very long hours,26.56
+Lithuania,Employees working very long hours,0.54
