@@ -8,7 +8,7 @@ Since 2012, Gallup publishes [World Happiness Report](https://worldhappiness.rep
 * Trends in the happiness ranking by the geographical location
 * The top two most contributing factors to happiness
 
-![screenshot](SooBin Code/images/regional_boxplot.png)
+![screenshot](https://github.com/soobing91/P1_World_Happiness_Report/blob/master/SooBin%20Code/images/regional_boxplot.png)
 
 The programming was primarily written in Python which utilized the following libraries:
 
