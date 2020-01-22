@@ -1,5 +1,5 @@
 # The Pursuit of Happiness Factors
-Team Happy - Paul Dean, Soo Bin Hwang, Mark Gatongay, Seunghwa Jun
+Team Happy - Paul Dean, Soo Bin Hwang, Mark Gatongay and Seunghwa Jun
 
 ## Overview
 Since 2012, Gallup publishes [World Happiness Report](https://worldhappiness.report/ed/2019/) every year in which it ranks countries by how happy people around the world perceive themselves to be. By using the findings from this report, a correlation analysis on the level of happiness among participating countries was conducted to identify the following:
